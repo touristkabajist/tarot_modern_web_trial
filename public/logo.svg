@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">一手牌局标志</title>
+  <desc id="desc">深蓝背景上的香槟金四花色罗盘</desc>
+  <rect width="256" height="256" fill="#0B1426"/>
+  <g fill="#E6C77A">
+    <path d="M128 34l35 42-35 32-35-32z"/>
+    <path d="M222 128l-42 35-32-35 32-35z"/>
+    <path d="M128 222l-35-42 35-32 35 32z"/>
+    <path d="M34 128l42-35 32 35-32 35z"/>
+  </g>
+  <path d="M128 104l24 24-24 24-24-24z" fill="#0B1426"/>
+  <circle cx="128" cy="128" r="5" fill="#E6C77A"/>
+</svg>
